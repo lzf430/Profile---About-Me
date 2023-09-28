@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @somebody
-- 👀 I’m interested in programming language
-- 🌱 I’m currently learning PYTHON
+- 👋 Hi, I’m @ZIFENG
 
 <!---
 lzf430/lzf430 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
